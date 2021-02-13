@@ -4,14 +4,14 @@ Bitirme Projesinin Youtube Linki : https://www.youtube.com/watch?v=ysr2fIJNNd0
 
 
  
- Büşra Özen : https://github.com/sbozen
+ Büşra Özen : https://github.com/sbozen/PG1926
  
  
  
  
  
  
- Ezgi Aslan : https://github.com/ezgiaslann
+ Ezgi Aslan : https://github.com/ezgiaslann/DSC-GAZ-PG1926
  
  
  
